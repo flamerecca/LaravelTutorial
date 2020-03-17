@@ -19,6 +19,7 @@
 * Route 連線 resource
 * Route 連線 Controller
 
+### Controller
 ### 連線資料庫
 * 建立 ORM
     * 一對一
@@ -49,5 +50,8 @@
     * Route Prefixes
     * Route Name Prefixes
 ### Middleware
-    * 一對多
-    
+* Defining Middleware
+* Registering Middleware
+
+### Controller
+* Single Action Controllers
