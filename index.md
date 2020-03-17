@@ -4,7 +4,6 @@
 ### 安裝環境
 * PHP
     * brew
-    * 
 * composer
     * composer 官網
 * docker
@@ -17,13 +16,22 @@
 
 ### Route
 * 建立 Route
-* 
+* Route 連線 resource
+* Route 連線 Controller
 
 ### 連線資料庫
 * 建立 ORM
     * 一對一
     * 一對多
     * 多對多
+* 
+### view
+* layout
+* displaying data
+* 
+
+### api
+* jsonResponse
 * 
 
 ## 進階
@@ -33,3 +41,13 @@
 * Route Parameters
     * required
     * optimal
+    * Regular Expression Constraints
+* Route Groups
+    * Middleware
+    * Namespaces
+    * Subdomain Routing
+    * Route Prefixes
+    * Route Name Prefixes
+### Middleware
+    * 一對多
+    
